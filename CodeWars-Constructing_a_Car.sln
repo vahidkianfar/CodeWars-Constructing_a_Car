@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeWars-Constructing_a_car", "CodeWars-Constructing_a_car\CodeWars-Constructing_a_car.csproj", "{B3224031-9DD5-4125-A493-129F19F25FDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarTest", "CarTest\CarTest.csproj", "{9A5BC74D-A93B-4E7D-B8FD-46A7313F86EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3224031-9DD5-4125-A493-129F19F25FDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3224031-9DD5-4125-A493-129F19F25FDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3224031-9DD5-4125-A493-129F19F25FDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3224031-9DD5-4125-A493-129F19F25FDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A5BC74D-A93B-4E7D-B8FD-46A7313F86EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A5BC74D-A93B-4E7D-B8FD-46A7313F86EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A5BC74D-A93B-4E7D-B8FD-46A7313F86EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A5BC74D-A93B-4E7D-B8FD-46A7313F86EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
